@@ -85,7 +85,8 @@ Apart from coding and other activities, I find time to write on these platforms.
 WCE (WhatsApp ChatBot Engine) is the last project I began working on. It's a framework library in `Java` & `Python` to build chatbots using a template-driven approach. I figured most `WhatsApp` projects out there are either just client libraries, uses web automation or basic `if..else` for demonstrating. This is a full-blown framework to create chatbots of any scale for you. 
 It is accessible and has a lot of potential so I suggest you take a look at it!
 
-<picture>
+<p align="center">
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=DonnC&repo=pywce&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -96,6 +97,18 @@ It is accessible and has a lot of potential so I suggest you take a look at it!
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonnC&repo=pywce" alt="Pinned repository: pywce" />
 </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=DonnC&repo=jawce&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=DonnC&repo=jawce"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonnC&repo=jawce" alt="Pinned repository: jawce" />
+</picture>
+</p>
 
 ---
 
