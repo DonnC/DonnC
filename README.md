@@ -37,6 +37,7 @@ In addition to programming, I enjoy travelling, game-viewing, gaming and reading
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/donnclab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/DonnC" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://donnclab.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/donchinhuru" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/donnclab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/15746605/donnc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/donix_22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
 ---
 
 <picture>
@@ -68,10 +69,9 @@ In addition to programming, I enjoy travelling, game-viewing, gaming and reading
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnC&layout=compact" alt="DonnC's Top Languages" />
 </picture>
----
 
 
-### Read, and catch up on content:
+### Read, Catch up on content:
 Apart from coding and other activities, I find time to write on these platforms. Do check them out sometimes 😉
 - [LinkedIn Pulse](https://www.linkedin.com/in/donchinhuru/recent-activity/articles/) :books:
 - [Blog posts on Medium](https://donnclab.medium.com/) :writing_hand:
@@ -79,10 +79,9 @@ Apart from coding and other activities, I find time to write on these platforms.
 
 ---
 
----
 ### Projects
 
-WCE (WhatsApp ChatBot Engine) is the last project I began working on. It's a framework library in `Java` & `Python` to build chatbots using a template-driven approach. I figured most `WhatsApp` projects out there are either just client libraries, uses web automation or basic `if..else` for demonstrating. This is a full-blown framework to create chatbots of any scale for you. 
+**WCE (WhatsApp ChatBot Engine):** is my latest project I'm working on. It's a framework library in `Java` & `Python` to build chatbots using a template-driven approach. I figured most `WhatsApp` projects out there are either just client libraries, uses web automation or basic `if..else` for demonstrating. This is a full-blown framework to create chatbots of any scale for you. 
 It is accessible and has a lot of potential so I suggest you take a look at it!
 
 <p align="center">
@@ -110,9 +109,8 @@ It is accessible and has a lot of potential so I suggest you take a look at it!
 </picture>
 </p>
 
----
 
-LogBook is a windows desktop app created with `Flutter`. It was created during my internship year to help me log and keep track of my internship progress.
+**LogBook:** is a windows desktop app created with `Flutter`. It was created during my internship year to help me log and keep track of my internship progress.
 The goal was to easily use my eLogBook inorder to complete my University log book needed after my internship year.
 
 <picture>
